@@ -19,7 +19,7 @@ Building **case studies + working UIs** for health-system and clinical workflow 
 | **GlucoWise AI** | Type 2 diabetes (insulin) meal/glucose coaching |
 | **DocuFlow** | Clinical documentation workflows |
 
-**Portfolio site:** [portfolio-website](https://aihustlelab.com)
+**Portfolio site:** [portfolio-website](https://theaihustlelab.com)
 
 Additional smaller experiments live under that repo’s Experiments page — not the homepage focus set.
 
@@ -45,6 +45,6 @@ Additional smaller experiments live under that repo’s Experiments page — not
 
 ## Links
 
-- **Portfolio:** https://aihustlelab.com
+- **Portfolio:** https://theaihustlelab.com
 - **LinkedIn:** https://linkedin.com/in/fmmpinheiro
 - **Email:** fpinheiro921@gmail.com
